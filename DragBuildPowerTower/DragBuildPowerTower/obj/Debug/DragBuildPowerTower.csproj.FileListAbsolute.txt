@@ -1,0 +1,6 @@
+D:\SteamLibrary\steamapps\common\Dyson Sphere Program\BepInEx\plugins\DragBuildPowerTower.dll
+D:\SteamLibrary\steamapps\common\Dyson Sphere Program\BepInEx\plugins\DragBuildPowerTower.pdb
+G:\work\CSFile\DragBuildPowerTower\DragBuildPowerTower\obj\Debug\DragBuildPowerTower.csproj.AssemblyReference.cache
+G:\work\CSFile\DragBuildPowerTower\DragBuildPowerTower\obj\Debug\DragBuildPowerTower.csproj.CoreCompileInputs.cache
+G:\work\CSFile\DragBuildPowerTower\DragBuildPowerTower\obj\Debug\DragBuildPowerTower.dll
+G:\work\CSFile\DragBuildPowerTower\DragBuildPowerTower\obj\Debug\DragBuildPowerTower.pdb
